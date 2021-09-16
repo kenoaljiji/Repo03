@@ -1,11 +1,12 @@
 function main(numOne, numTwo) {
   //Only change code below this line
   //Subtract of two number
-  var difference = numOne - numTwo;
+
+  var differennce = numOne - numTwo;
 
   //Only change code above this line
 
-  return difference;
+  return differennce;
 }
 console.log(main(15, 8));
 console.log(main(25, 8));

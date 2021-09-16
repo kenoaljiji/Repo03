@@ -2,10 +2,12 @@ function main() {
   //intitialize variable and add a value 8
 
   var x = 8;
-  console.log(x);
-  //Only change code below this line
+
+  //Only change code above this line
+
   return x;
 }
-main();
+
+console.log(main());
 
 module.exports = main;

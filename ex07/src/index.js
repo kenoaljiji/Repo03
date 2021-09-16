@@ -1,5 +1,5 @@
 function main() {
-  //Only change code above this line
+  //Only change code below this line
   //variable declarations
 
   var studlyCapVar;

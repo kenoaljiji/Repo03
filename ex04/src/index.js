@@ -2,13 +2,15 @@ function main() {
   //Only change code below this line
   //Create variable with var keywoard
 
-  var x = 10;
-  var y = x;
+  var x;
+  x = 10;
+  y = x;
 
-  console.log(x, y);
+  //Only change code above this line
 
   return [x, y];
 }
-main();
+
+console.log(main());
 
 module.exports = main;
