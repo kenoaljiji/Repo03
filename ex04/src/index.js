@@ -4,7 +4,7 @@ function main() {
 
   var x;
   x = 10;
-  y = x;
+  var y = x;
 
   //Only change code above this line
 

@@ -9,7 +9,7 @@ function main() {
   //variable assignments
 
   studlyCapVar = 10;
-  properCamelCase = "A string";
+  properCamelCase = "A String";
   titleCaseOver = 9000;
 
   //Only change code above this line
